@@ -1,0 +1,333 @@
+<html>
+<head>
+<title>Exercicio 1</title>
+</head>
+<body>
+
+<h1>Exercício 1</h1>
+
+
+<ol>
+  <li>Fechar contrato</li>
+  <li>Análise de sistema</li>
+  	<ol Type = "1">
+  		<li>Avaliação da empresa</li>
+        	<ol Type = "1">
+  				<li>Entrevista com funcionários</li>
+        		<li>Pesquisa de documentação da empresa</li>
+   		   </ol> 
+        <li>Programação</li> 
+        <li>Aprovação do projeto</li> 
+    </ol>  
+  <li>Treinamento dos Usuários</li>  
+</ol>
+
+
+<h1>Exercício 2</h1>
+
+<ol>
+	<li>Titanic</li>
+    <li>Meu primeiro amor</li>
+    <li>Uma linda mulher</li>
+    <br>    
+    
+    <li value="10">Exterminador do futuro II</li>
+    <li >DevoltaparaofuturoI,II,III</li>
+    <li >Indiana Jones </li>
+    <br>
+    <li value="20">Sexta-Feira 13</li>
+    <li>Ahora do pesadelo</li>
+    
+    
+</ol>
+
+<h1>Exercício 3</h1>
+
+	<img src =/dados/disco1/home/philipe_valentim/Downloads/foto1.png/>
+    
+    Com esta pagina estou mostrando uma forma de colocar um texto entre duas figuras.
+	
+<img src =/dados/disco1/home/philipe_valentim/Downloads/foto1.png/>
+
+<h1>Exercício 4</h1>
+
+<img src =/dados/disco1/home/philipe_valentim/Downloads/foto2.png/> <h1>Soneto da fidelidade</h1>
+			 Que tudo ao amor serei eterno <br>
+			Antes, e com tal zelo e sempre tanto<br>
+            Que mesmo em face do maior encanto<br>
+            Dele se encante o meu pensamento<br>
+            Quero vove-lo em cada vão momento<br>
+            E em seu louvor espalharmeu canto<br>
+            Rir do meu riso e derramar meu pronto<br>
+            Em seu pesar e em seu contentamento<br>
+            E assim, quando mais tarde me procure<br>
+            Quem sabe a morte, angusta de quem vive<br>
+            Quem sabe a solidão, fim de quem ama<br> 
+            Eu posso dizer do amor que tive<br> 
+            Que não seja imortal, posto do que é chama<br>
+            Mas que seja infinito enquanto dure.<br>
+            Vinicius de Morais.<br>
+            
+
+<h1>Exercício 5</h1>
+
+<table>
+<tr>
+
+	<th>Processador</th>
+	<th>Velocidade MHz</th>
+	<th>Preço de Lançamento*</th>
+	<th>Data de Lançamento</th>
+	<th>Preços em Agosto/2000*</th>
+	<th>Queda %</th>
+
+</tr>
+<tr>	
+    <td>AMD K-6</td>
+    <td>200</td>
+    <td>315</td>
+    <td>Abril/97</td>
+    <td>107</td>
+    <td>66</td>    
+</tr>
+<tr>	
+    <td>AMD K-6</td>
+    <td>233</td>
+    <td>437</td>
+    <td>Maio/97</td>
+    <td>284</td>
+    <td>35</td>    
+</tr>
+<tr>	
+    <td>Cyrix 6x86</td>
+    <td>200</td>
+    <td>240</td>
+    <td>Maio/97</td>
+    <td>188</td>
+    <td>22</td>    
+</tr>
+<tr>	
+    <td>Cyrix 6x86</td>
+    <td>233</td>
+    <td>320</td>
+    <td>Maio/97</td>
+    <td>290</td>
+    <td>9</td>    
+</tr>
+<tr>	
+    <td>Intel Pentium II</td>
+    <td>233</td>
+    <td>636</td>
+    <td>Maio/97</td>
+    <td>530</td>
+    <td>17</td>    
+</tr>
+<tr>	
+    <td>Intel Pentium II</td>
+    <td>266</td>
+    <td>775</td>
+    <td>Maio/97</td>
+    <td>699</td>
+    <td>10</td>    
+</tr>
+
+</table>
+
+<h6>*Preços FOB da unidade em US$ para lotes de mil; o preço fica em media 25% mais caro.</h6>
+
+<h6>Informações tiradas da revista Informatica Exame de Setembro/1977.</h6>
+
+
+<h1>Exercício 6</h1>
+
+<h5>A queda de preço de tres marcas de chips</h5>
+
+<table >
+<style>
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<tr>
+
+	<th>Processador</th>
+	<th>Velocidade MHz</th>
+	<th>Preço de Lançamento*</th>
+	<th>Data de Lançamento</th>
+	<th>Preços em Agosto/2000*</th>
+	<th>Queda %</th>
+
+</tr>
+<tr>	
+    <td>AMD K-6</td>
+    <td>200</td>
+    <td>315</td>
+    <td>Abril/97</td>
+    <td>107</td>
+    <td>66</td>    
+</tr>
+<tr>	
+    <td>AMD K-6</td>
+    <td>233</td>
+    <td>437</td>
+    <td>Maio/97</td>
+    <td>284</td>
+    <td>35</td>    
+</tr>
+<tr>	
+    <td>Cyrix 6x86</td>
+    <td>200</td>
+    <td>240</td>
+    <td>Maio/97</td>
+    <td>188</td>
+    <td>22</td>    
+</tr>
+<tr>	
+    <td>Cyrix 6x86</td>
+    <td>233</td>
+    <td>320</td>
+    <td>Maio/97</td>
+    <td>290</td>
+    <td>9</td>    
+</tr>
+<tr>	
+    <td>Intel Pentium II</td>
+    <td>233</td>
+    <td>636</td>
+    <td>Maio/97</td>
+    <td>530</td>
+    <td>17</td>    
+</tr>
+<tr>	
+    <td>Intel Pentium II</td>
+    <td>266</td>
+    <td>775</td>
+    <td>Maio/97</td>
+    <td>699</td>
+    <td>10</td>    
+</tr>
+</table>
+
+
+<h1>Exercício 7</h1>
+
+<table >
+<style>
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<tr>
+
+	<th>COD</th>
+	<th>DESCRIÇÃO</th>
+	<th></th>
+	<th>                  </th>
+	
+
+</tr>
+<tr>	
+    <td>001</td>
+    <td>     </td>
+    <td>Frango</td>
+    <td>RS10,00</td>
+     
+</tr>
+<tr>	
+    <td>002</td>
+    <td>     </td>
+    <td>Frango</td>
+    <td>RS15,00</td>
+       
+</tr>
+<tr>	
+    <td>001</td>
+    <td>     </td>
+    <td>Pato</td>
+    <td>RS12,00</td>
+       
+</tr>
+<tr>	
+    <td>003</td>
+    <td>     </td>
+    <td>Pato</td>
+    <td>RS17,00</td>
+      
+</tr>
+<tr>	
+    <td>001</td>
+    <td>     </td>
+    <td>Peixe</td>
+    <td>RS6,00</td>
+       
+</tr>
+<tr>	
+    <td>002</td>
+    <td>     </td>
+    <td>Peixe</td>
+    <td>RS9,00</td>
+       
+</tr>
+</table>
+<table>
+
+<tr>
+
+	<th>REFERÊNCIAS DE CÓDIGOS</th>
+	<th>COD</th>
+    <th>FUNÇÃO</th>
+
+</tr>
+<tr>	
+    <td>
+    	<br>    
+    </td>
+    <td>001</td>
+    <td>ASSADO</td>
+       
+</tr>
+<tr>	
+    <td>
+    	<br>    
+    </td>
+    <td>002</td>
+    <td>GRELHADO</td>
+       
+</tr>
+<tr>	
+    <td>
+    	<br>    
+    </td>
+    <td>001</td>
+    <td>AO MOLHO</td>
+       
+</tr>
+</table>
+
+<h1>Exercício 9</h1>
+
+<form action="/action_page.php">
+	<fieldset>
+    	<legend>Entre em Contato</legend>
+        
+    <br>
+    <input type="text" value="Tiago vale" name="Nome" >
+    <br>
+    <input type="text" value="(xx)xxxxxxxx"  name="Fone" >
+    <br>
+    <input type="text" value="fulano@gmail.com"  name="Email" >
+    <br>
+    
+    
+    </fieldset>
+</form>
+
+
+</body>
+</html>
+
